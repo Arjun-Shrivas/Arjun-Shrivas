@@ -1,28 +1,11 @@
-<h2>Hello!👋</h2>
+## Hello!👋
 I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **machine learning**, **deep learning**, and **natural language processing (NLP)**. I specialize in building scalable data models, automating workflows, and deploying interactive dashboards using **Python**, **Dash**, **Azure**, and **SQL**. My focus is on optimizing data pipelines and driving business solutions. Currently, I am enhancing my expertise in **large language models (LLM)** and regularly share insights on [Medium](https://medium.com/@arjunshrivas1997).
 
-
-<h3 align="center">A passionate developer focused on data-driven solutions from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
 
 
  <!--- Profile view ---> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-shrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-shrivas" /> </p>
-
-- 🔭 I’m currently working on **Natural Language Processing (NLP) projects**, focusing on building data-driven solutions.
-
-- 🌱 I’m actively learning and exploring **Large Language Models (LLMs)** to stay at the forefront of AI advancements.
-
-- 👯 I’m open to collaborating on **data-driven projects** and innovative solutions that leverage **machine learning and AI**.
-
-- 📝 I regularly share my insights and write articles on [Medium](https://medium.com/@arjunshrivas1997) about **data science, machine learning, and AI**.
-
-- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analytics, and NLP**.
-
-- 📫 You can reach me via email at **arjunshrivas1997@gmail.com**.
-
-- ⚡ Fun fact: **I'm passionate about extracting meaningful insights from data and solving complex real-world problems.**
-
 
 <!--- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
