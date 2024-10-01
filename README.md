@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arjun Shrivas</h1>
+<h2>Hello!👋</h2>
+I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **machine learning**, **deep learning**, and **natural language processing (NLP)**. I specialize in building scalable data models, automating workflows, and deploying interactive dashboards using **Python**, **Dash**, **Azure**, and **SQL**. My focus is on optimizing data pipelines and driving business solutions. Currently, I am enhancing my expertise in **large language models (LLM)** and regularly share insights on [Medium](https://medium.com/@arjunshrivas1997).
+
+
 <h3 align="center">A passionate developer focused on data-driven solutions from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
 
