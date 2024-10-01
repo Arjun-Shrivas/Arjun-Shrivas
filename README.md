@@ -76,4 +76,16 @@ I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **m
 </p>
 
 
+## Get in Touch
+<hr>
+
+For more information about me please visit my **LinkedIn** profile or my personal site. Don't hesitate to talk with me, if you would like to discuss further, have any inquiries or even need my personal number to talk more, please contact me via **LinkedIn** or **email**. I am always open to connecting and discussing exciting opportunities or any collaboration in Software Engineering and Startup, you can also contact me via:<br>
+ - Email : arjunshrivas1997@gmail.com<br>
+ - LinkedIn : Arjun Shrivas<br>
+ - X : Arjun Shrivas<br>
+ - Facebook : Arjun Shrivas<br>
+ 
+ 
+ Look forward to connecting with you!
+
 
