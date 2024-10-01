@@ -20,7 +20,7 @@ I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **m
 
 
 
-
+## 📕  Latest Blog Posts
 <table>
   <tr>
     <td><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0" alt="Recent Article 0">
