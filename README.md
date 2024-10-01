@@ -6,8 +6,8 @@ I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **m
 
 <br>
 <div style="display: flex; flex-direction: row;">
- <img style="height:"190" width:40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Arjun-Shrivas&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
- <img style="height:"200" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Shrivas&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+ <img style="height:"190" width:40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Arjun-Shrivas&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
+ <img style="height:"200" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Shrivas&theme=transparent&langs_count=8&layout=compact&hide_border=true" />
 </div>
 
 
