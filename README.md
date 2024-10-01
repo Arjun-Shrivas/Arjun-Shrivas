@@ -1,12 +1,14 @@
 ## Hello!👋
+<!--- Profile view ---> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arjun-shrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-shrivas" /> </p>
+
 I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **machine learning**, **deep learning**, and **natural language processing (NLP)**. I specialize in building scalable data models, automating workflows, and deploying interactive dashboards using **Python**, **Dash**, **Azure**, and **SQL**. My focus is on optimizing data pipelines and driving business solutions. Currently, I am enhancing my expertise in **large language models (LLM)** and regularly share insights on [Medium](https://medium.com/@arjunshrivas1997).
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
 
 
- <!--- Profile view ---> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-shrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-shrivas" /> </p>
-
+ 
 <!--- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
