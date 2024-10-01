@@ -1,22 +1,68 @@
-[![MasterHead](https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/chatGPT-GitHub-banner.jpg)]
+[![MasterHead](https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/chatGPT-GitHub-banner.jpg)](your-link-here)
 <h1 align="center">Hi 👋, I'm Arjun Shrivas</h1>
 <h3 align="center">A passionate developer focused on data-driven solutions from India</h3>
 
 
+ <!--- Profile view ---> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-shrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-shrivas" /> </p>
 
+- 🔭 I’m currently working on **Natural Language Processing (NLP) projects**, focusing on building data-driven solutions.
+
+- 🌱 I’m actively learning and exploring **Large Language Models (LLMs)** to stay at the forefront of AI advancements.
+
+- 👯 I’m open to collaborating on **data-driven projects** and innovative solutions that leverage **machine learning and AI**.
+
+- 📝 I regularly share my insights and write articles on [Medium](https://medium.com/@arjunshrivas1997) about **data science, machine learning, and AI**.
+
+- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analytics, and NLP**.
+
+- 📫 You can reach me via email at **arjunshrivas1997@gmail.com**.
+
+- ⚡ Fun fact: **I'm passionate about extracting meaningful insights from data and solving complex real-world problems.**
+
+ 
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img height="140"  src="https://streak-stats.demolab.com/?user=Arjun-Shrivas&count private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Arjun-Shrivas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Shrivas&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+</div>
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
+
+
+<table>
+  <tr>
+    <td><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0" alt="Recent Article 0">
+    <img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/1" alt="Recent Article 1">
+    </div></td>
+    <td valign="top"><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/2" alt="Recent Article 2">
+    <img  width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/3" alt="Recent Article 3">
+    </div></td>
+  </tr>
+  
+ </table>
+
+
+
+
 <img align="right"  width=400 src="https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/githun.gif" alt="arjun-shrivas" />
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/arjun-shrivas-ba45a9146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-shrivas-ba45a9146" height="30" width="40" /></a>
 <a href="https://kaggle.com/arjunshrivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arjunshrivas" height="30" width="40" /></a>
 <a href="https://medium.com/@arjunshrivas1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arjunshrivas1997" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@arjunshrivas8105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arjunshrivas8105" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Development Stack & Tools:</h3>
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -43,8 +89,5 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-shrivas&show_icons=true&locale=en&layout=compact" alt="arjun-shrivas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-shrivas&show_icons=true&locale=en" alt="arjun-shrivas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-shrivas&" alt="arjun-shrivas" /></p>
