@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/chatGPT-GitHub-banner.jpg)](your-link-here)
 <h1 align="center">Hi 👋, I'm Arjun Shrivas</h1>
 <h3 align="center">A passionate developer focused on data-driven solutions from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
 
 
  <!--- Profile view ---> 
@@ -32,7 +33,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
 
 
 <table>
