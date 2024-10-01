@@ -5,19 +5,16 @@
 I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **machine learning**, **deep learning**, and **natural language processing (NLP)**. I specialize in building scalable data models, automating workflows, and deploying interactive dashboards using **Python**, **Dash**, **Azure**, and **SQL**. My focus is on optimizing data pipelines and driving business solutions. Currently, I am enhancing my expertise in **large language models (LLM)** and regularly share insights on [Medium](https://medium.com/@arjunshrivas1997).
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
-
-
- 
 <!--- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
 </div>--->
-
 <div style="display:flex;flex-direction:row;justify-content:center;">
      <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=Arjun-Shrivas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
   <img    src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Shrivas&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
+
 
 
 
