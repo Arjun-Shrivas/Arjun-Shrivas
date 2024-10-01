@@ -10,39 +10,7 @@ I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **m
 <a href="https://medium.com/@arjunshrivas1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arjunshrivas1997" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@arjunshrivas8105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arjunshrivas8105" height="30" width="40" /></a>
 </p>
-
 <hr>
-<div style="display: flex; flex-direction: row;">
- <img style="height:"190" width:40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Arjun-Shrivas&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
- <img style="height:"200" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Shrivas&theme=transparent&langs_count=8&layout=compact&hide_border=true" />
-</div>
-
-
-<!-- <div style="display:flex;flex-direction:row;justify-content:center;">
-     <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=Arjun-Shrivas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
-  <img    src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Shrivas&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
-</div>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
-
-
-
-
-
-## 📕  Latest Blog Posts
-<table>
-  <tr>
-    <td><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0" alt="Recent Article 0">
-    <img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/1" alt="Recent Article 1">
-    </div></td>
-    <td valign="top"><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/2" alt="Recent Article 2">
-    <img  width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/3" alt="Recent Article 3">
-    </div></td>
-  </tr>
-  
- </table>
-
-
-
 
 <img align="right"  width=400 src="https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/githun.gif" alt="arjun-shrivas" />
 
@@ -72,6 +40,47 @@ I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **m
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
+
+<!--<div style="display: flex; flex-direction: row;">
+  <img style="height:"200" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Shrivas&theme=transparent&langs_count=8&layout=compact&hide_border=true" />
+ <img style="height:"190" width:40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Arjun-Shrivas&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
+
+</div>-->
+<div style="display:flex;flex-direction:row;justify-content:center;">
+ <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Shrivas&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+     <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Arjun-Shrivas&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  
+</div>
+
+
+<!-- <div style="display:flex;flex-direction:row;justify-content:center;">
+     <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=Arjun-Shrivas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img    src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Shrivas&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+</div>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-shrivas" alt="arjun-shrivas" /></a> </p>
+
+
+
+
+
+## 📕  Latest Blog Posts
+<table>
+  <tr>
+    <td><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0" alt="Recent Article 0">
+    <img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/1" alt="Recent Article 1">
+    </div></td>
+    <td valign="top"><div><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/2" alt="Recent Article 2">
+    <img  width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/3" alt="Recent Article 3">
+    </div></td>
+  </tr>
+  
+ </table>
+
+
+
+
+
 
 
 ## Get in Touch
