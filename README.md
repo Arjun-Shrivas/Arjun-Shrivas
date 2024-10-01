@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Arjun-Shrivas/Arjun-Shrivas/blob/main/chatGPT-GitHub-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Arjun Shrivas</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
