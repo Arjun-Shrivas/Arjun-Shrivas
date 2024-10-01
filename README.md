@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arjun-shrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-shrivas" /> </p>
 
 I am **Arjun Shrivas**, a data enthusiast with over 3 years of experience in **machine learning**, **deep learning**, and **natural language processing (NLP)**. I specialize in building scalable data models, automating workflows, and deploying interactive dashboards using **Python**, **Dash**, **Azure**, and **SQL**. My focus is on optimizing data pipelines and driving business solutions. Currently, I am enhancing my expertise in **large language models (LLM)** and regularly share insights on [Medium](https://medium.com/@arjunshrivas1997).
-
+<hr>
 <div style="display: flex; flex-direction: row;">
  <img style="height:"190" width:40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Arjun-Shrivas&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
  <img style="height:"200" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Shrivas&theme=transparent&langs_count=8&layout=compact&hide_border=true" />
